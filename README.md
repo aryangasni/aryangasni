@@ -1,4 +1,4 @@
-# Hi there! I'm Aryan.
+### Hi there! I'm Aryan.
 
 <!--
 **aryangasni/aryangasni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
